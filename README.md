@@ -1,3 +1,4 @@
+# Communication - Mainstay
 It is an IOT based project with raspberry pie. 
 
 Main motive of the project is to provide communication to the victims of natural disasters without any signals or any towers. 
@@ -11,7 +12,7 @@ So that by this project victims are able to communicate with the rescue team and
 Rescue team will also be able to know the needs of people there and they can provide them.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-How to Run?:
+# How to Run?:
  
 * Connect Raspberry Pie to any monitor.
 * Write the code and save it with .py as its extension.
